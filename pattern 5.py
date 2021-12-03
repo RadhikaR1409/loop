@@ -7,3 +7,11 @@ while i<5:
         j=j+1
     print()
     i=i+1
+
+
+
+
+for i in range(6):
+    for b in range(6):
+        print((65+b),end="")
+    print()
